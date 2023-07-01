@@ -6,7 +6,24 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 10:49:37 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 19:51:35 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySecondArtcles</title>
+      <link>/posts/mysecondartcles/</link>
+      <pubDate>Sat, 01 Jul 2023 19:51:35 +0800</pubDate>
+      
+      <guid>/posts/mysecondartcles/</guid>
+      <description>
+        
+          
+            关于创建博客时的问题 在public进入cmd时使用git init后返回说明已经给我创建好了.git的文件， 但是在publi文件夹中并没有找到，经过请教导师才知道git文件是一个可以被 隐藏的文件，需要在资源管理器中点——查看——显示，再将&amp;quot;可隐藏的项目&amp;quot;勾选 就可以看到了
+此外，写完用hugo生成的静态网页后，将它发布到GitHub上查看时显示404，不知道哪里错了，就干脆删掉重新跟着教程创建一遍就好了。不过第二次创建开始也是显示404，但是这个404是GitHub在审核，需要等一段时间就好了
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
